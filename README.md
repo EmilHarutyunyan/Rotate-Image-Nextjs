@@ -12,7 +12,7 @@ Rotate Image is a simple tool built with Next.js that lets users quickly rotate 
 
 ## Demo
 
-You can view a live demo of this project at: [https://example.com/rotate-image](https://example.com/rotate-image)
+You can view a live demo of this project at: [https://lab-projects-nextjs.vercel.app/](https://lab-projects-nextjs.vercel.app/)
 
 ## Installation
 
